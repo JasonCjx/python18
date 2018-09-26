@@ -8,5 +8,6 @@ weight = 60
 
 name1 = cjy
 
+num1 = 2
 
 num = 1
