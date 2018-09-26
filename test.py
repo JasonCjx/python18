@@ -7,3 +7,6 @@ height = 170
 weight = 60
 
 name1 = cjy
+
+
+num = 1
